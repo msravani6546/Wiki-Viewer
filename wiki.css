@@ -1,0 +1,39 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,700);
+
+body {
+  background: url('http://upload.wikimedia.org/wikipedia/en/thumb/8/80/Wikipedia-logo-v2.svg/1122px-Wikipedia-logo-v2.svg.png');
+ background-repeat:no-repeat;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+ 
+  font-family: Roboto, sans-serif;
+  text-align: center;
+  margin: 0;
+}
+
+
+a{
+  color:black;
+}
+
+
+li{
+  font-size: 16px;
+  background-color:#E5E4E2;
+  padding:3px 20px 20px 20px;
+  margin:25px;
+  border-style:solid;
+  border-color:black;
+}
+a:hover{
+  text-decoration:none;
+  color:black;
+}
+ul{
+  list-style-type:none;
+  padding:0px;
+  margin:0;
+}
